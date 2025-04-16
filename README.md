@@ -48,9 +48,9 @@ I thrive at the intersection of business and technology—bringing strategy, str
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 📧 your.email@example.com  
-- 🌐 [yourwebsite.com](https://yourwebsite.com) *(optional)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shashank-mitra/)  
+- 📧 shashank.mitra07@gmail.com
+- 🌐 
 
 ---
 
